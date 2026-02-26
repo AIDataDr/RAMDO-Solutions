@@ -38,5 +38,6 @@ I am grateful and thankful for the experience of having started RAMDO Solutions 
 
 [Return to Top](#top)
 
+#
 [![Home](https://img.shields.io/badge/Back%20to-Home-009911)](https://github.com/AIDataDr)     [![Portfolio TOC](https://img.shields.io/badge/Back%20to-Portfolio%20TOC-009911)](https://github.com/AIDataDr#portfolio-table-of-contents)
 
