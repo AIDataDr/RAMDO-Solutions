@@ -1,3 +1,4 @@
+<a id="top"></a>
 # RAMDO Solutions
 
 After finishing my Ph.D. I co-founded the company RAMDO Solutions. There is more on that below in the [My RAMDO Solutions Journey](#my-ramdo-solutions-journey) section. As a co-founder of a small business, I worked in every role of a business, even taking out the trash and cleaning the office. I made mistakes along the way, but I learned a lot as well!
@@ -33,4 +34,7 @@ Working together with the angel investor an idea and plan of how to move forward
 
 I am grateful and thankful for the experience of having started RAMDO Solutions and for all the friends and colleagues I got to know. I learned a lot as well! Thank you to everyone who supported and helped me along the way!
 
+[Return to Top](#top)
+
+[Return to Portfolio Table of Contents](https://github.com/AIDataDr/#portfolio-table-of-contents)
 
