@@ -1,4 +1,6 @@
 <a id="top"></a>
+[![Home](https://img.shields.io/badge/Back%20to-Home-009911)](https://github.com/AIDataDr/#portfolio-table-of-contents)     [![Portfolio TOC](https://img.shields.io/badge/Back%20to-Portfolio%20TOC-009911)](https://github.com/AIDataDr#portfolio-table-of-contents)
+
 # RAMDO Solutions
 
 After finishing my Ph.D. I co-founded the company RAMDO Solutions. There is more on that below in the [My RAMDO Solutions Journey](#my-ramdo-solutions-journey) section. As a co-founder of a small business, I worked in every role of a business, even taking out the trash and cleaning the office. I made mistakes along the way, but I learned a lot as well!
@@ -36,5 +38,5 @@ I am grateful and thankful for the experience of having started RAMDO Solutions 
 
 [Return to Top](#top)
 
-[Return to Portfolio Table of Contents](https://github.com/AIDataDr/#portfolio-table-of-contents)
+[![Home](https://img.shields.io/badge/Back%20to-Home-009911)](https://github.com/AIDataDr/#portfolio-table-of-contents)     [![Portfolio TOC](https://img.shields.io/badge/Back%20to-Portfolio%20TOC-009911)](https://github.com/AIDataDr#portfolio-table-of-contents)
 
